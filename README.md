@@ -31,5 +31,5 @@ Deep Learning.pdf will be downloaded in the current folder.
 chmod +x deeplearning.sh && ./deeplearning.sh && rm deeplearning.sh`
 
 # Pull requests
-If you like the script there is no need to buy me a beer! Just give back to the rest of the world the favour that I did to you by checking from time to time that the script matches the content of the source and, if not, make a pull request!
+If you like the script, there is no need to buy me a beer! Just give back to the rest of the world the favour that I did to you by checking from time to time that the script matches the content of the source and, if not, make a pull request!
 
